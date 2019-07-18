@@ -14,5 +14,6 @@ Yue-Wen FANG
 The data that support the findings of 
 each study shown here are openly available at respective DOI.
 
+The [dataset](https://zenodo.org/record/3265828#.XTBahZMzbOQ) for "[The complex non-collinear magnetic orderings in Ba2YOsO6: A new approach to tuning spin-lattice interactions and controlling magnetic orderings in frustrated complex oxides, Journal of Physics: Condensed Matter, 2019](https://iopscience.iop.org/article/10.1088/1361-648X/ab31e0)"
 
 
