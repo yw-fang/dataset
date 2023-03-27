@@ -21,7 +21,10 @@ Pb2CoOsO6 under pressure, Phys. Rev. B 102, 144418, 2020](https://doi.org/10.110
 
 # Data availability statements for unpublished works
 
-The [dataset](http://doi.org/10.5281/zenodo.3997016) for the F doped PbTiO3, 2020.
+[Dataset](http://doi.org/10.5281/zenodo.3997016) for the F doped PbTiO3, 2020.
+
+[Dataset](https://doi.org/10.5281/zenodo.7483762) for the phonon dispersion and eigenvectors of Cd2Re2O7, 2022
+
 
 # Data availability statements for conferences
 
