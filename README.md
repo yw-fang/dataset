@@ -16,6 +16,9 @@ each study are openly available at respective DOI.
 
 The [dataset](https://zenodo.org/record/3265828#.XTBahZMzbOQ) for "[The complex non-collinear magnetic orderings in Ba2YOsO6: A new approach to tuning spin-lattice interactions and controlling magnetic orderings in frustrated complex oxides, Journal of Physics: Condensed Matter, 2019](https://iopscience.iop.org/article/10.1088/1361-648X/ab31e0)"
 
+The [dataset](https://doi.org/10.5281/zenodo.4033535) for "[Coupled magnetic and structural phase transitions in the antiferromagnetic polar metal 
+Pb2CoOsO6 under pressure, Phys. Rev. B 102, 144418, 2020](https://doi.org/10.1103/PhysRevB.102.144418)"
+
 # Data availability statements for unpublished works
 
 The [dataset](http://doi.org/10.5281/zenodo.3997016) for the F doped PbTiO3, 2020.
